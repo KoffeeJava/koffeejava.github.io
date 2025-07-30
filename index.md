@@ -5,7 +5,7 @@
 layout: default
 title: Home Page
 ---
-## Hello!
+# Hello!
 
 My "Online" Name is Koffee/KoffeeJava and I love making projects! 
 
