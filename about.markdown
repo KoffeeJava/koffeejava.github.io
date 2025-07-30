@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Hello!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My "Online" Name is Koffee/KoffeeJava and I love making projects! 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Things that I make is,
+- Python Projects
+- Extensions for TurboWarp/PenguinMod
+- and a lot more stuff!
 
+You can see me on [Tiktok](https://tiktok.com/@koffeejava
+) and at my discord server! 
 
-[jekyll-organization]: https://github.com/jekyll
+[![](https://dcbadge.limes.pink/api/server/JpEQJkyRgX)](https://discord.gg/JpEQJkyRgX)
