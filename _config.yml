@@ -28,7 +28,7 @@ url: "https://koffeejava.github.io" # the base hostname & protocol for your site
 github_username:  KoffeeJava
 
 # Build settings
-theme: hacker
+theme: jekyll-theme-Hacker
 plugins:
   - jekyll-feed
 
