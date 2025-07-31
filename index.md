@@ -27,3 +27,6 @@ Where I find random stuff on the internet. Basicly a directory containing stuff 
 
 ## [Posts](/posts)
 This is where I post things about anything.
+
+## [Commit Streak](/streak)
+Shows my commit streak! Lets see how long I can get it!
