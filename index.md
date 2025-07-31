@@ -23,7 +23,7 @@ Want to know where everything is? Well, this is the place!
 Where all off my stuff I make is at!
 
 ## [Random Stuff](/rand)
-Where I find random stuff on the internet. Basicly a directory containing stuff I want.
+Where I find random stuff on the internet. Basically a directory containing stuff I want.
 
 ## [Posts](/posts)
 This is where I post things about anything.
