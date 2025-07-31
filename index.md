@@ -2,12 +2,15 @@
 layout: default
 title: Home Page
 ---
-# Hello!
-My "Online" Name is Koffee/KoffeeJava and I love making projects! 
+# About
+My "Online" Name is KoffeeJava but you can call me Koffee.
+
+I love making projects! They are what keep me from being bored when I have nothing to do.
 
 Things that I make is,
-- Python Projects
+- Python Projects 
 - Extensions for TurboWarp/PenguinMod
+- 3D rendering
 - and a lot more stuff!
 You can see me on [Tiktok](https://tiktok.com/@koffeejava
 ), [GitHub](https://github.com/KoffeeJava), and at my discord server! 
