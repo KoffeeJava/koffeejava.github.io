@@ -3,13 +3,15 @@ layout: default
 title: Home Page
 ---
 # Hello!
-
 My "Online" Name is Koffee/KoffeeJava and I love making projects! 
 
 Things that I make is,
 - Python Projects
 - Extensions for TurboWarp/PenguinMod
 - and a lot more stuff!
+
+# Why Does This Website Exists?
+I made this website to show off who I am, what I do, and what I make! If you have a recommendation for my site, please make an issue at this websites repo!
 
 You can see me on [Tiktok](https://tiktok.com/@koffeejava
 ), [GitHub](https://github.com/KoffeeJava), and at my discord server! 
@@ -23,7 +25,7 @@ Want to know where everything is? Well, this is the place!
 Where all off my stuff I make is at!
 
 ## [Random Stuff](/rand)
-Where I find random stuff on the internet. Basicly a directory containing stuff I want.
+Where I find random stuff on the internet. Basically a directory containing stuff I want.
 
 ## [Posts](/posts)
 This is where I post things about anything.
