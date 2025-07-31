@@ -20,8 +20,6 @@ You can see me on [Tiktok](https://tiktok.com/@koffeejava
 # Why Does This Website Exists?
 I made this website to show off who I am, what I do, and what I make! If you have a recommendation for my site, please make an issue at this websites repo!
 
-
-
 # Pages
 Want to know where everything is? Well, this is the place!
 
