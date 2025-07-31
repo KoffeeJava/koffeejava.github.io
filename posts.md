@@ -6,4 +6,4 @@
   {% endfor %}
 </ul>
 
-[Home](..)
+[![Home](/assets/images/home.png)](..)

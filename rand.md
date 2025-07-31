@@ -15,4 +15,4 @@ A useful book about Linux.
 ## [Z Libary](https://1lib.sk/)
 A cool book libary
 
-[Home](..)
+[![Home](/assets/images/home.png)](..)

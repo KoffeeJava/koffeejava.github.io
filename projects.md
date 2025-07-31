@@ -16,4 +16,4 @@ An weather utility only for linux. [Repo here](https://github.com/KoffeeJava/Wea
 This website! I'm (hopefully) always working on this!
 [Repo here](https://github.com/KoffeeJava/koffeejava.github.io) or click the button in the header.
 
-[Home](..)
+[![Home](/assets/images/home.png)](..)
