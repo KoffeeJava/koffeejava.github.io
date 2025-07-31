@@ -9,14 +9,15 @@ Things that I make is,
 - Python Projects
 - Extensions for TurboWarp/PenguinMod
 - and a lot more stuff!
-
-# Why Does This Website Exists?
-I made this website to show off who I am, what I do, and what I make! If you have a recommendation for my site, please make an issue at this websites repo!
-
 You can see me on [Tiktok](https://tiktok.com/@koffeejava
 ), [GitHub](https://github.com/KoffeeJava), and at my discord server! 
 
 [![](https://dcbadge.limes.pink/api/server/JpEQJkyRgX)](https://discord.gg/JpEQJkyRgX)
+
+# Why Does This Website Exists?
+I made this website to show off who I am, what I do, and what I make! If you have a recommendation for my site, please make an issue at this websites repo!
+
+
 
 # Pages
 Want to know where everything is? Well, this is the place!
