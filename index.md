@@ -27,3 +27,6 @@ Where all off my stuff I make is at!
 
 ## [Random Stuff](/rand)
 Where I find random stuff on the internet. Basicly a directory containing stuff I want.
+
+## [Posts](/posts)
+This is where I post things about anything.
