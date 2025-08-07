@@ -19,4 +19,7 @@ A cool book library
 ## [FreeDNS](https://freedns.afraid.org/)
 A place with subdomains with a **LOT** of domains to choose from!
 
+## [MIT OCW](https://ocw.mit.edu/)
+Free courses from MIT! Video lectures is at their [yt](https://www.youtube.com/@mitocw)!
+
 [![Home](/assets/images/home.png)](..)
