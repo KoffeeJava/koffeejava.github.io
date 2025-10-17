@@ -7,7 +7,8 @@ title: wfetch
 
 WeatherFetch (wfetch) is an app based on python that shows the live temperature, air pressure, wind speed, humidity, and weather descriptions!
 
-<img width="302" height="193" alt="image" src="https://github.com/user-attachments/assets/17c6dcfe-5b36-476e-b290-f5ad79c85c96" />
+<img width="255" height="210" alt="image" src="https://github.com/user-attachments/assets/27806e2d-5afa-4206-837a-1fddfef3d615" />
+
 
 <sub>Note: image may not be up to date!
 
