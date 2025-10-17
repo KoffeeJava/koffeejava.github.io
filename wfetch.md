@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Wfetch
+title: wfetch
 ---
 
 # WeatherFetch
 
-WeatherFetch (wfetch) is an app running on python that shows the live temperature, air pressure, wind speed, humidity, and weather descriptions!
+WeatherFetch (wfetch) is an app based on python that shows the live temperature, air pressure, wind speed, humidity, and weather descriptions!
 
 <img width="302" height="193" alt="image" src="https://github.com/user-attachments/assets/17c6dcfe-5b36-476e-b290-f5ad79c85c96" />
 
