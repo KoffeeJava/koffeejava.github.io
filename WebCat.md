@@ -1,3 +1,9 @@
+---
+layout: default
+title: WebCat
+permalink: /webcat
+---
+
 # Blocks
 ## `Is notifications allowed?`
 Block Type: Boolean
