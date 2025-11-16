@@ -6,18 +6,17 @@ permalink: /projects
 
 # Projects!
 
-## Tuxtility
-Tuxtility is an extension for TurboWarp/TurboWarp based scratch mods that add a new dimension of web utilities. Get it [here!](https://github.com/KoffeeJava/Tuxtility)
+## [Tuxtility](https://github.com/KoffeeJava/Tuxtility)
+Tuxtility is an extension for TurboWarp/TurboWarp based scratch mods that add a new dimension of web utilities.
 
-## WebCat
+## [WebCat](https://github.com/KoffeeJava/WebCat)
 WebCat was made to take the new parts from Tuxtility that aren't in other extensions (as far as I know) and makes it into it's own extension!
-Get it at this [repo](https://github.com/KoffeeJava/WebCat) and out can see the list of blocks [here](/WebCat)
+You can see the list of blocks [here](/WebCat)
 
 ## [Wfetch](/wfetch)
-An weather utility only for linux.
+An weather utility for your terminal!
 
-## koffeejava.github.io
+## [koffeejava.github.io](https://github.com/KoffeeJava/koffeejava.github.io)
 This website! I'm (hopefully) always working on this!
-[Repo here](https://github.com/KoffeeJava/koffeejava.github.io) or click the button in the header.
 
 [![Home](/assets/images/home.png)](..)
