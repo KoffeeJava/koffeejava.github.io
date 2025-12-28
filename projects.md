@@ -16,6 +16,9 @@ You can see the list of blocks [here](/WebCat)
 ## [Wfetch](/wfetch)
 An weather utility for your terminal!
 
+## [KPAW](https://github.com/KoffeeJava/Koffees-PenguinMod-API-Wrapper)
+Simple API wrapper for penguin mod.
+
 ## [koffeejava.github.io](https://github.com/KoffeeJava/koffeejava.github.io)
 This website! I'm (hopefully) always working on this!
 
