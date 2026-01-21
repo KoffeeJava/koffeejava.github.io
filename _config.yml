@@ -1,14 +1,14 @@
 title: Koffee's Corner
-email: KoffeeJava@proton.me
+email: KoffeeJava@tuta.io
 description: >- # this means to ignore newlines until "baseurl:"
  The coolest website on the internet!
  No, really, it is.
 baseurl:
-domain: koffeejava.github.io
-url: "https://koffeejava.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: koffeejava.uw
+url: "https://koffeejava.us" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  KoffeeJava
 
 # Build settings
-theme: jekyll-theme-hacker
+remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-feed
