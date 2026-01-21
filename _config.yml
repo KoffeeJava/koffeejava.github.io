@@ -9,6 +9,6 @@ url: "https://koffeejava.us" # the base hostname & protocol for your site, e.g. 
 github_username:  KoffeeJava
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
