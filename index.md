@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Home Page
+title: Check out my new site! | Home Page
 ---
+# In case you didn't know
+This is an archive of my old website! If you want to see my up-to-date website, go to [koffeejava.us](https://koffeejava.us)
+
 # About
 My "Online" Name is KoffeeJava but you can call me Koffee.
 
